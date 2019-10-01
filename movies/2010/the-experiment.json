@@ -1,0 +1,21 @@
+{
+    "name": "The Experiment",
+    "year": 2010,
+    "runtime": 96,
+    "categories": [
+        "drama",
+        "thriller"
+    ],
+    "release-date": "2010-08-12",
+    "director": "Oliver Hirschbiegel",
+    "writer": [
+        "Paul Scheuring",
+        "Mario Giordano"
+    ],
+    "actors": [
+        "Adrien Brody",
+        "Cam Gigandet",
+        "Forest Whitaker"
+    ],
+    "storyline": "26 men are chosen to participate in the roles of guards and prisoners in a psychological study that ultimately spirals out of control."
+}
