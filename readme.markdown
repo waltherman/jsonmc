@@ -1,8 +1,8 @@
 # JSON Movie Collection
 
-[![Build Status](https://travis-ci.org/jsonmc/jsonmc.svg?branch=master)](https://travis-ci.org/jsonmc/jsonmc)
-
 A comprehensive collection of movies and actors easy to use and parse in json file format segregated by release year.
+
+Forked from https://github.com/jsonmc/jsonmc which is now archived and read-only. I am slowly migrating the issues over to this repo, so please be patient. Please star and watch if you like!
 
 ## Contributing
 
@@ -15,16 +15,16 @@ Make sure to always reference your pull requests with the respective issue by ad
 ### A movie has the following details
 
 
-Movie attribute | Details
-----------------|--------------
-Release date | YYYY-MM-DD release date
-Categories | Action, adventure, comedy, animation, family, fantasy, sci-fi, sport
-Director | Directors of the movie
-Writers | Screenplay and story writers
-Actors | Main casts of the movie
-Year | Movie released year
-Runtime | Runtime in mins
-Storyline | Brief description of the movie
+| Movie attribute | Details                                                              |
+| --------------- | -------------------------------------------------------------------- |
+| Release date    | YYYY-MM-DD release date                                              |
+| Categories      | Action, adventure, comedy, animation, family, fantasy, sci-fi, sport |
+| Director        | Directors of the movie                                               |
+| Writers         | Screenplay and story writers                                         |
+| Actors          | Main casts of the movie                                              |
+| Year            | Movie released year                                                  |
+| Runtime         | Runtime in mins                                                      |
+| Storyline       | Brief description of the movie                                       |
 
 
 #### Example movie file
