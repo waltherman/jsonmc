@@ -1,0 +1,25 @@
+{
+  "name": "Wolf Warrior 2",
+  "year": 2017,
+  "runtime": 123,
+  "categories": [
+    "action",
+    "sci-fi",
+    "drama",
+    "thriller"
+  ],
+  "release-date": "2017-07-27",
+  "director": "Jing Wu",
+  "writer": [
+    "Qun Dong",
+    "Yan Gao",
+    "Yi Liu",
+    "Jing Wu"
+  ],
+  "actors": [
+    "Jing Wu",
+    "Frank Grillo",
+    "Celina Jade"
+  ],
+  "storyline": "China's deadliest special forces operative settles into a quiet life on the sea. When sadistic mercenaries begin targeting nearby civilians, he must leave his newfound peace behind and return to his duties as a soldier and protector."
+}
