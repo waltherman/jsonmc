@@ -25,4 +25,3 @@
     ],
     "storyline": "The film involves the resurrection of Frank (Sean Chapman), who had opened the door to an alternate dimension and had his body torn to pieces by creatures known as Cenobites. Years later, Frank's brother Larry (Andrew Robinson) moves into their late mother's abandoned house with new wife Julia (Clare Higgins)"
 }
-  
