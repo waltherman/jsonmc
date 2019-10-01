@@ -1,0 +1,21 @@
+{
+    "name": "Rambo: First Blood",
+    "year": 1982,
+    "runtime": 93,
+    "categories": [
+        "action"
+    ],
+    "release-date": "1982-10-22",
+    "director": "Ted Kotcheff",
+    "writer": [
+        "Michael Kozoll",
+        "William Sackheim",
+        "Sylvester Stallone"
+    ],
+    "actors": [
+        "Sylvester Stallone",
+        "Richard Crenna",
+        "Brian Dennehy"
+    ],
+    "storyline": "Rambo, a troubled and misunderstood vietnam veteran, must rely on his combat and survival senses against the abusive law enforment of the small town of Hope, Washington."
+}
