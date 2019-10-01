@@ -1,0 +1,27 @@
+{
+  "name": "CJ7",
+  "year": 2008,
+  "runtime": 88,
+  "categories": [
+    "comedy",
+    "drama",
+    "family"
+  ],
+  "release-date": "2008-01-30",
+  "director": "Stephen Chow",
+  "writer": [
+    "Stephen Chow",
+    "Vincent Kok",
+    "Kan-Cheung Tsang",
+    "Sandy Shaw",
+    "Chi Keung Fung",
+    "Fung Lam"
+  ],
+  "actors": [
+    "Stephen Chow",
+    "Xu Jiao",
+    "Zhang Yuqi",
+    "Lee Sheung-ching"
+  ],
+  "storyline": "A poor Chinese laborer learns important lessons after his son gets a strange new toy."
+}
