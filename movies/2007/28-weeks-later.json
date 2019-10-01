@@ -1,0 +1,29 @@
+{
+  "name": "28 Weeks Later",
+  "year": 2007,
+  "runtime": 99,
+  "categories": [
+    "drama",
+    "horror",
+    "sci-fi"
+  ],
+  "release-date": "2007-05-11",
+  "director": "Juan Carlos Fresnadillo",
+  "writer": [
+    "Rowan Joffe",
+    "Juan Carlos Fresnadillo",
+    "Enrique López Lavigne",
+    "Jesús Olmo",
+  ],
+  "actors": [
+    "Robert Carlyle",
+    "Rose Byrne",
+    "Jeremy Renner",
+    "Harold Perrineau",
+    "Catherine McCormack",
+    "Imogen Poots",
+    "Mackintosh Muggleton",
+    "Idris Elba",
+  ],
+  "storyline": "The Rage virus infects another safe zone."
+}
