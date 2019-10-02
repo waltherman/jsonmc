@@ -1,0 +1,23 @@
+{
+    "name": "Green Book",
+    "year": 2018,
+    "runtime": 130,
+    "categories": [
+      "biography",
+      "drama",
+      "comedy"
+    ],
+    "release-date": "2018-10-04",
+    "director": "Peter Farrelly",
+    "writer": [
+      "Nick Vallelonga", 
+      "Brian Hayes Currie"
+    ],
+    "actors": [
+        "Viggo Mortensen",
+        "Mahershala Ali", 
+        "Linda Cardellini" 
+    ],
+    "storyline": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South."
+  }
+  
