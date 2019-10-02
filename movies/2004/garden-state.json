@@ -1,0 +1,20 @@
+{
+  "name": "Garden State",
+  "year": 2004,
+  "runtime": 102,
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "release-date": "2004-01-16",
+  "director": "Zach Braff",
+  "writer": [
+    "Zach Braff"
+  ],
+  "actors": [
+    "Zach Braff",
+    "Peter Sarsgaard",
+    "Natalie Portman"
+  ],
+  "storyline": " A quietly troubled young man returns home for his mother's funeral after being estranged from his family for a decade."
+}
