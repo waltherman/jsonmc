@@ -1,0 +1,34 @@
+{
+	"name": "Back to the Future: Part III",
+	"year": 1990,
+	"runtime": 118,
+	"categories": [
+		"adventure",
+		"comedy",
+		"sci-fi"
+	],
+	"release-date": "1990-5-25",
+	"director": "Robert Zemeckis",
+	"writer": [
+		"Robert Zemeckis",
+		"Bob Gale"
+	],
+	"actors": [
+		"Michael J Fox",
+		"Christopher Lloyd",
+		"Mary Steenburgen",
+		"Thomas F Wilson",
+		"Lea Thompson",
+		"Elisabeth Shue",
+		"Matt Clark",
+		"Richard Dysart",
+		"Pat Buttram",
+		"Harry Carey Jr",
+		"Dub Taylor",
+		"James Tolkan",
+		"Marc McClure",
+		"Wendie Jo Sperber",
+		"Jeffrey Weissman"
+	], 
+	"storyline": "Learning about the death of Doc Brown in 1885, Marty travels back in time to save him. But when the fuel tank on the time machine is punctured, the two must figure out a way to escape the Old West before Emmet is murdered."
+}
