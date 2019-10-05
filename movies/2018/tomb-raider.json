@@ -1,7 +1,7 @@
 {
   "name": "Tomb Raider",
   "year": 2018,
-  "runtime": 119,
+  "runtime": 118,
   "categories": [
     "action",
     "adventure",
@@ -10,10 +10,8 @@
   "release-date": "2018-03-16",
   "director": "Roar Uthaug",
   "writer": [
-    "Geneva Robertson-Dworet",
-    "Alastair Siddons",
-    "Evan Daugherty",
-    "Geneva Robertson-Dworet"
+    "Geneva Robertson-Dworet", 
+	"Evan Daugherty"
   ],
   "actors": [
     "Alicia Vikander",
@@ -21,35 +19,9 @@
     "Walton Goggins",
     "Daniel Wu",
     "Derek Jacobi",
-    "Alexandre Willaume",
-    "Tamer Burjaq",
-    "Kristin Scott Thomas",
-    "Adrian Collins",
-    "Keenan Arrison",
-    "Andrian Mazive",
-    "Milton Schorr",
-    "Hannah John-Kamen",
-    "Peter Waison",
-    "Samuel Mak",
-    "Sky Yang",
-    "Civic Chung",
-    "Josef Altin",
-    "Billy Postlethwaite",
-    "Roger Jean Nsengiyumva",
-    "Jaime Winstone",
-    "Michael Obiora",
-    "Shekhar Varma",
-    "Rekha John-Cheriyan",
-    "Antonio Aakeel",
-    "Maisy De Freitas",
-    "Emily Carey",
-    "Gordon Chow",
-    "Duncan Airlie James",
-    "Jandre le Roux",
-    "Vere Tindale",
-    "Annabel Elizabeth Wood",
-    "Kenneth Fok",
-    "Maruwan Gasant"
+    "Alexandre Willaume ",
+    "Tamer Burjaq ",
+	"Kristin Scott Thomas"
   ],
   "storyline":"Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father disappeared."
 }
