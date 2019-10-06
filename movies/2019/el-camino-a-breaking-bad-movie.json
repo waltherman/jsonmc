@@ -1,21 +1,20 @@
 {
-    "name": "El Camino: A Breaking Bad Movie",
-    "year": 2019,
-    "runtime": 122,
-    "categories": [
-      "action",
-      "drama"
-    ],
-    "release-date": "2019-10-11",
-    "director": "Vince Gilligan",
-    "writer": [
-      "Vince Gilligan"
-    ],
-    "actors": [
-      "Aaron Paul",
-      "Matt Jones",
-      "Charles Baker"
-    ],
-    "storyline": "After escaping Jack and his gang, Jesse Pinkman goes on the run from the police and tries to escape his own inner turmoil."
-  }
-  
+  "name": "El Camino: A Breaking Bad Movie",
+  "year": 2019,
+  "runtime": 122,
+  "categories": [
+    "action",
+    "drama"
+  ],
+  "release-date": "2019-10-11",
+  "director": "Vince Gilligan",
+  "writer": [
+    "Vince Gilligan"
+  ],
+  "actors": [
+    "Aaron Paul",
+    "Matt Jones",
+    "Charles Baker"
+  ],
+  "storyline": "After escaping Jack and his gang, Jesse Pinkman goes on the run from the police and tries to escape his own inner turmoil."
+}
